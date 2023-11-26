@@ -6,34 +6,7 @@
 
 
 ! 特定のワードを含む検索をブロック(英語のみ対応)
-^matome^
-^antena^
-^anntena^
-^2ch^
-^5ch^
-^keiba^
-^keirin^
-^giants^
-^sports^
-^twitter^
-^instagram^
-^nanj^
-^manga^
-^movie^
-^togetter^
+^^
 
 ! 特定のワードをURLに含むサイトをブロック
-||*2ch*^
-||*5ch*^
-||*togetter*^
-||*keiba*^
-||*keirin*^
 ||*comic*^
-||*antena*^
-||*anntena*^
-||*mato*^
-||*yakyu*^
-||*jra*^
-||*oricon*^
-||*idol*^
-||*bilibili*^
